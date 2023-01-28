@@ -13,7 +13,7 @@
 
 This is a Todo application built with the MERN stack (MongoDB, ExpressJS, ReactJS, and NodeJS). The application allows users to create, read, update, and delete their Todo tasks. In addition, the app also includes a login and register page for user authentication, using JSON web token (JWT) for secure user sessions.
 
-Website Link: [Click Here](https://todo-app-mern-stack.vercel.app/)
+# Website Link: [Click Here](https://todo-app-mern-stack.vercel.app/)
 
 ## Getting Started
 
@@ -52,10 +52,22 @@ The app uses JSON web token (JWT) for authentication, ensuring secure user sessi
 ### Login
 
 <img src="markdown-images/login.png">
+
 ### Register
+
+<img src="markdown-images/register.png">
+
 ### Todo List
+
+<img src="markdown-images/todo-list.png">
+
 ### Todo Marked Complete
+
+<img src="markdown-images/todo-marked-complete.png">
+
 ### Editing a Todo
+
+<img src="markdown-images/edit-todo.png">
 
 ## Documentation
 
